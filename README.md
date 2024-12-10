@@ -2,7 +2,7 @@
 
 ![OpenDrive Banner](banner.png)
 
-**OpenDrive** es un proyecto que transforma cualquier tablet antigua o en desuso en un avanzado navegador multimedia para automóviles. Este sistema está diseñado para brindar una solución accesible y funcional, aprovechando dispositivos existentes y software de código abierto.  
+**OpenDrive** es un proyecto que transforma cualquier tablet antigua o en desuso en un útil navegador multimedia para automóviles o motocicletas. Este sistema está diseñado para brindar una solución accesible y funcional, aprovechando dispositivos existentes y software de código abierto.  
 
 ## Características principales
 
